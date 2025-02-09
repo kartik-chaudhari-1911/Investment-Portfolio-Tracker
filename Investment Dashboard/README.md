@@ -60,7 +60,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    
-   git clone https://github.com/ykartik-chaudhari-1911/investment-portfolio-tracker.git
+   https://github.com/kartik-chaudhari-1911/Investment-Portfolio-Tracker.git
 
 
 2. **Navigate to the project directory:**
