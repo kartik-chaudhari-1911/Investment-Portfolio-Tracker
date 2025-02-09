@@ -57,30 +57,28 @@ A responsive filtering system allows users to sort and categorize their assets b
 - **Animations & Visual Feedback:**  
   - Subtle animations enhance the user experience, such as fading in/out when applying filters or expanding/collapsing asset categories. Visual feedback is provided when sorting or filtering, like highlighting the top-performing assets in the list.
 
-## Installation
+## Installation-steps
 
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    
-   https://github.com/kartik-chaudhari-1911/Investment-Portfolio-Tracker.git
+  - git clone "https://github.com/kartik-chaudhari-1911/Investment-Portfolio-Tracker.git"
 
 
 2. **Navigate to the project directory:**
 
-
-  cd investment-portfolio-tracker
-  Install dependencies:
-
-  npm install
+   - cd investment-portfolio-tracker
+   - Install dependencies:
+   -  npm install
   
 3. **Start the development server:**
 
-  npm start
+   - npm start
   
 4. **Open your browser and visit:**
 
-  http://localhost:5173
+   - http://localhost:5173
 
 
 # Technologies Used
