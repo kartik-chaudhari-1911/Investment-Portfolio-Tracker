@@ -4,7 +4,10 @@
 
 This project aims to develop a sleek and responsive investment portfolio tracker that allows users to add and manage various assets (stocks, crypto, etc.) and view real-time performance data through an intuitive dashboard. The application is designed to provide a comprehensive overview of the user's portfolio, enabling them to make informed investment decisions.
 
-**Note:** This project uses dummy data for demonstration purposes. Real-time data integration with external APIs is a planned feature for future development.
+- This project uses dummy data for demonstration purposes. Real-time data integration with external APIs is a planned feature for future development.
+
+- Deployed link of our project
+      - http://portfolio-tracker001.netlify.app/
 
 ## Key Features
 
